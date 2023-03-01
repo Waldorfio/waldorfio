@@ -13,6 +13,7 @@ My name is Wally. I am a full-stack developer.
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) 
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=react)
 ### Back-End
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
   ![Node](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
