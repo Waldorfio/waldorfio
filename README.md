@@ -3,7 +3,6 @@
 My name is Walid. I am a full-stack developer.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wally-h/)
-[![Work GitHub](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://github.com/Waldorfio-dd)
 
 ## My Tech Stacks
 ### Front-End
