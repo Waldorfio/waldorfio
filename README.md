@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-My name is Walid. I am a full-stack developer.
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wally-h/)
-
 ## My Tech Stacks
 ### Front-End
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
